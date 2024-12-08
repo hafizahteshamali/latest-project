@@ -1,0 +1,50 @@
+export const ProductBannerData = [
+    {
+        imgUrl: "./assets/images/product1.svg",
+        heading: "Accumsan tincidunt",
+        cPrice: "$26.00",
+        sPrice: "$52.00",
+        stars: ["./assets/images/star.png", "./assets/images/star.png", "./assets/images/star.png",  "./assets/images/star.png", "./assets/images/star-dark.png"],
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+    },
+    {
+        imgUrl: "./assets/images/product2.svg",
+        heading: "In nulla",
+        cPrice: "$26.00",
+        sPrice: "$52.00",
+        stars: ["./assets/images/star.png", "./assets/images/star.png", "./assets/images/star.png",  "./assets/images/star.png", "./assets/images/star-dark.png"],
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+    },
+    {
+        imgUrl: "./assets/images/product3.svg",
+        heading: "Vel sem",
+        cPrice: "$26.00",
+        sPrice: "$52.00",
+        stars: ["./assets/images/star.png", "./assets/images/star.png", "./assets/images/star.png",  "./assets/images/star.png", "./assets/images/star-dark.png"],
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+    },
+    {
+        imgUrl: "./assets/images/product4.svg",
+        heading: "Porttitor cum",
+        cPrice: "$26.00",
+        sPrice: "$52.00",
+        stars: ["./assets/images/star.png", "./assets/images/star.png", "./assets/images/star.png",  "./assets/images/star.png", "./assets/images/star-dark.png"],
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+    },
+    {
+        imgUrl: "./assets/images/product5.svg",
+        heading: "Vitae facilisis",
+        cPrice: "$26.00",
+        sPrice: "$52.00",
+        stars: ["./assets/images/star.png", "./assets/images/star.png", "./assets/images/star.png",  "./assets/images/star.png", "./assets/images/star-dark.png"],
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+    },
+    {
+        imgUrl: "./assets/images/product6.svg",
+        heading: "Curabitur lectus",
+        cPrice: "$26.00",
+        sPrice: "$52.00",
+        stars: ["./assets/images/star.png", "./assets/images/star.png", "./assets/images/star.png",  "./assets/images/star.png", "./assets/images/star-dark.png"],
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+    }
+]
