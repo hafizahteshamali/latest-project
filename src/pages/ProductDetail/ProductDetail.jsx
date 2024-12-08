@@ -18,7 +18,7 @@ const ProductDetail = () => {
         <Row gutter={[16, 16]}>
           {CardsData.map((item, index) => {
             return (
-              <Col xs={24} sm={24} md={12} lg={6} xl={6} key={index} xs>
+              <Col xs={24} sm={24} md={12} lg={6} span={6} key={index}>
                 <Cards data={item} />
               </Col>
             );

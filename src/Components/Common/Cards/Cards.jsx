@@ -6,7 +6,6 @@ const Cards = ({data}) => {
     const {imgUrl, heading, stars, price} = data;
 
   return (
-    <div className="w-[1100px] m-auto">
       <Card
         hoverable
         style={{
@@ -32,7 +31,6 @@ const Cards = ({data}) => {
         </div>
         <p>{price}</p>
       </Card>
-    </div>
   );
 };
 
